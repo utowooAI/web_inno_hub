@@ -1,0 +1,25 @@
+{
+  "name": "web_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "umi dev",
+    "build": "umi build",
+    "test": "umi test",
+    "lint": "umi lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "antd": "^5.13.2",
+    "axios": "^1.6.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.3",
+    "umi": "^4.1.1"
+  }
+}
